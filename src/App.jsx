@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div className='font-anzo1'>this is a random text</div> // Apply the anzo1 font
   )
 }
 

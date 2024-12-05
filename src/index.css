@@ -1,3 +1,29 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: anzo1; /* Name your font */
+  src: url(./assets/file.woff2); /* Adjust the file path */
+}
+
+@font-face {
+  font-family: anzo2; /* Name your font */
+  src: url(./assets/madefortext.woff2); /* Adjust the file path */
+}
+@font-face {
+  font-family: anzo3; /* Name your font */
+  src: url(./assets/anzo3.woff2); /* Adjust the file path */
+}
+@font-face {
+  font-family: anzo4; /* Name your font */
+  src: url(./assets/anzo4.woff2); /* Adjust the file path */
+}
+@font-face {
+  font-family: anzo5; /* Name your font */
+  src: url(./assets/anzo5.woff2); /* Adjust the file path */
+}
+@font-face {
+  font-family: anzo6; /* Name your font */
+  src: url(./assets/anzo6.woff2); /* Adjust the file path */
+}
