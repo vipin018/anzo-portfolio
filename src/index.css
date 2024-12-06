@@ -27,3 +27,7 @@
   font-family: anzo6; /* Name your font */
   src: url(./assets/anzo6.woff2); /* Adjust the file path */
 }
+
+body{
+  background-color: #111;
+}

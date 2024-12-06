@@ -1,8 +1,14 @@
 import React from 'react'
 
+import Page1 from './pages/Page1'
+import Header from './components/Header'
+
 const App = () => {
   return (
-    <div className='font-anzo1'>this is a random text</div> // Apply the anzo1 font
+    <>
+      <Header />
+      <Page1 />
+    </>
   )
 }
 
